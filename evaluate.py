@@ -19,4 +19,4 @@ def evaluate():
     return acc
 
 
-print(evaluate())
+print(evaluate())  # Get about 97% accuracy
